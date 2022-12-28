@@ -9,10 +9,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Mirage.Aptos.SDK.Account.html",
-          "hash": "q3v7TAfcekn6jtKA7cCYZn9sGbxY0O2kDUOoKlCx9oE="
+          "hash": "MPNwzSon5QaT2EzVImEKEVRDSuEMrgNZqEXFCNYXts8="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -21,10 +21,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Mirage.Aptos.SDK.Client.html",
-          "hash": "rB+KqFv1ndANLz1hVClsRi4DE9NCVoSD2Pyno1+mAiM="
+          "hash": "86YhZKe1GKC461moS0xH1mxSkcbYypjNeZZPcp6C6Ag="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -33,10 +33,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Mirage.Aptos.SDK.CoinClient.html",
-          "hash": "/Jc45cHtvgO2blDensR6wt3ceCjyM9GOpHHyHALOTw8="
+          "hash": "Q5euzne/mZYnnvTRI7VD1IN0sDNr3of1CytRJdHQiQA="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -45,10 +45,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Mirage.Aptos.SDK.FaucetClient.html",
-          "hash": "s2QaXfmrSwX18ob7euFoAbVDkQBg1ly9Ri0fuGbOheI="
+          "hash": "sQoToX6HB/sYMvU3sSk3NpW6sE/+1RrHnWbYv3a6Txo="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -57,10 +57,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Mirage.Aptos.SDK.TokenClient.html",
-          "hash": "d9TZDXr3yX3LYMmunXH2aMunwzRJg29tmfsT3z2f7qw="
+          "hash": "iiRvrA8jQedACMG+k/HfmZ2GsHjHiNlg2GojSaYLNkc="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -69,10 +69,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Mirage.Aptos.SDK.html",
-          "hash": "Vegsuv+zb16HkuOPtC0BdkevagqcjFSbfbyewJccHRE="
+          "hash": "AdUO4LtXdDKOx3QyvEUkZxlsyz/yeD+FP0yUDc0iUNs="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -81,10 +81,10 @@
       "output": {
         ".html": {
           "relative_path": "api/index.html",
-          "hash": "zXGTy8rbN064xYh0foDAbOi47jAaQtoTAtu02FeMYMw="
+          "hash": "WU5bpByCuxsu6hd1waBqZKxPIPdceRTqje29TBVOIeE="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -93,7 +93,7 @@
       "output": {
         ".html": {
           "relative_path": "api/toc.html",
-          "hash": "7/U/aW5Xypi++CmFDec6MnsleeOCyuxzgNYfwstX7w0="
+          "hash": "P1ybzIQTE6wUHL2AzsX3iG/bu3axrYJ8Br8QNIRqHYY="
         }
       },
       "is_incremental": false,
@@ -105,10 +105,10 @@
       "output": {
         ".html": {
           "relative_path": "articles/intro.html",
-          "hash": "zKQ5O1Mlg3Tc+XDwhoM8PIfCkInU33Q6Y6EWTtdSGBo="
+          "hash": "ape6LkKdzeLbiKTmobsMkdiSP7fMSl5KcyAgTe4Cf8M="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -117,7 +117,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/toc.html",
-          "hash": "BlPxk5mtl2kgfcZUgkEguqiSAR/EUyUTT4EdebwkQvs="
+          "hash": "MTE4wnxF8zicaPO1GqwDApP2vWR+Ef8T1e6H7M+f1pw="
         }
       },
       "is_incremental": false,
@@ -129,10 +129,10 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "wv/3eguJxjhv++YTeeH022dFPXzz/m3h/7YIkxXtqvo="
+          "hash": "Jlv5LUOyaE1BuMfsnU+e5uIf0gdSfa4cyxV3A9M2z+s="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -141,7 +141,7 @@
       "output": {
         ".html": {
           "relative_path": "toc.html",
-          "hash": "s+UecGKJLe11K3w4+MJjx6QoiqktkO8teeQG06lk8L0="
+          "hash": "+z70XUZqOn9HIL9BOVy77I0bJJ/YPtJoWgv434z/xmk="
         }
       },
       "is_incremental": false,

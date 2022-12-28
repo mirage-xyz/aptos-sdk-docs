@@ -11,7 +11,9 @@
       ],
       "dest": "api",
       "disableGitFeatures": false,
-      "disableDefaultFilter": false
+      "disableDefaultFilter": false,
+      "_appTitle": "Mirage Aptos docs",
+      "_enableSearch": "true"
     }
   ],
   "build": {
