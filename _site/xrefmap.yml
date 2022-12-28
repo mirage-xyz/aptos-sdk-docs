@@ -1,0 +1,429 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: Mirage.Aptos.SDK
+  name: Mirage.Aptos.SDK
+  href: api/Mirage.Aptos.SDK.html
+  commentId: N:Mirage.Aptos.SDK
+  fullName: Mirage.Aptos.SDK
+  nameWithType: Mirage.Aptos.SDK
+- uid: Mirage.Aptos.SDK.Account
+  name: Account
+  href: api/Mirage.Aptos.SDK.Account.html
+  commentId: T:Mirage.Aptos.SDK.Account
+  fullName: Mirage.Aptos.SDK.Account
+  nameWithType: Account
+- uid: Mirage.Aptos.SDK.Account.#ctor
+  name: Account()
+  href: api/Mirage.Aptos.SDK.Account.html#Mirage_Aptos_SDK_Account__ctor
+  commentId: M:Mirage.Aptos.SDK.Account.#ctor
+  fullName: Mirage.Aptos.SDK.Account.Account()
+  nameWithType: Account.Account()
+- uid: Mirage.Aptos.SDK.Account.#ctor(System.Byte[])
+  name: Account(Byte[])
+  href: api/Mirage.Aptos.SDK.Account.html#Mirage_Aptos_SDK_Account__ctor_System_Byte___
+  commentId: M:Mirage.Aptos.SDK.Account.#ctor(System.Byte[])
+  name.vb: Account(Byte())
+  fullName: Mirage.Aptos.SDK.Account.Account(System.Byte[])
+  fullName.vb: Mirage.Aptos.SDK.Account.Account(System.Byte())
+  nameWithType: Account.Account(Byte[])
+  nameWithType.vb: Account.Account(Byte())
+- uid: Mirage.Aptos.SDK.Account.#ctor*
+  name: Account
+  href: api/Mirage.Aptos.SDK.Account.html#Mirage_Aptos_SDK_Account__ctor_
+  commentId: Overload:Mirage.Aptos.SDK.Account.#ctor
+  isSpec: "True"
+  fullName: Mirage.Aptos.SDK.Account.Account
+  nameWithType: Account.Account
+- uid: Mirage.Aptos.SDK.Account.Address
+  name: Address
+  href: api/Mirage.Aptos.SDK.Account.html#Mirage_Aptos_SDK_Account_Address
+  commentId: F:Mirage.Aptos.SDK.Account.Address
+  fullName: Mirage.Aptos.SDK.Account.Address
+  nameWithType: Account.Address
+- uid: Mirage.Aptos.SDK.Account.GetAddress
+  name: GetAddress()
+  href: api/Mirage.Aptos.SDK.Account.html#Mirage_Aptos_SDK_Account_GetAddress
+  commentId: M:Mirage.Aptos.SDK.Account.GetAddress
+  fullName: Mirage.Aptos.SDK.Account.GetAddress()
+  nameWithType: Account.GetAddress()
+- uid: Mirage.Aptos.SDK.Account.GetAddress*
+  name: GetAddress
+  href: api/Mirage.Aptos.SDK.Account.html#Mirage_Aptos_SDK_Account_GetAddress_
+  commentId: Overload:Mirage.Aptos.SDK.Account.GetAddress
+  isSpec: "True"
+  fullName: Mirage.Aptos.SDK.Account.GetAddress
+  nameWithType: Account.GetAddress
+- uid: Mirage.Aptos.SDK.Account.PublicKey
+  name: PublicKey
+  href: api/Mirage.Aptos.SDK.Account.html#Mirage_Aptos_SDK_Account_PublicKey
+  commentId: F:Mirage.Aptos.SDK.Account.PublicKey
+  fullName: Mirage.Aptos.SDK.Account.PublicKey
+  nameWithType: Account.PublicKey
+- uid: Mirage.Aptos.SDK.Account.Sign(System.Byte[])
+  name: Sign(Byte[])
+  href: api/Mirage.Aptos.SDK.Account.html#Mirage_Aptos_SDK_Account_Sign_System_Byte___
+  commentId: M:Mirage.Aptos.SDK.Account.Sign(System.Byte[])
+  name.vb: Sign(Byte())
+  fullName: Mirage.Aptos.SDK.Account.Sign(System.Byte[])
+  fullName.vb: Mirage.Aptos.SDK.Account.Sign(System.Byte())
+  nameWithType: Account.Sign(Byte[])
+  nameWithType.vb: Account.Sign(Byte())
+- uid: Mirage.Aptos.SDK.Account.Sign*
+  name: Sign
+  href: api/Mirage.Aptos.SDK.Account.html#Mirage_Aptos_SDK_Account_Sign_
+  commentId: Overload:Mirage.Aptos.SDK.Account.Sign
+  isSpec: "True"
+  fullName: Mirage.Aptos.SDK.Account.Sign
+  nameWithType: Account.Sign
+- uid: Mirage.Aptos.SDK.Client
+  name: Client
+  href: api/Mirage.Aptos.SDK.Client.html
+  commentId: T:Mirage.Aptos.SDK.Client
+  fullName: Mirage.Aptos.SDK.Client
+  nameWithType: Client
+- uid: Mirage.Aptos.SDK.Client.#ctor(System.String,OpenAPIConfig)
+  name: Client(String, OpenAPIConfig)
+  href: api/Mirage.Aptos.SDK.Client.html#Mirage_Aptos_SDK_Client__ctor_System_String_OpenAPIConfig_
+  commentId: M:Mirage.Aptos.SDK.Client.#ctor(System.String,OpenAPIConfig)
+  fullName: Mirage.Aptos.SDK.Client.Client(System.String, OpenAPIConfig)
+  nameWithType: Client.Client(String, OpenAPIConfig)
+- uid: Mirage.Aptos.SDK.Client.#ctor*
+  name: Client
+  href: api/Mirage.Aptos.SDK.Client.html#Mirage_Aptos_SDK_Client__ctor_
+  commentId: Overload:Mirage.Aptos.SDK.Client.#ctor
+  isSpec: "True"
+  fullName: Mirage.Aptos.SDK.Client.Client
+  nameWithType: Client.Client
+- uid: Mirage.Aptos.SDK.Client.GetAccountResource(System.String,System.String)
+  name: GetAccountResource(String, String)
+  href: api/Mirage.Aptos.SDK.Client.html#Mirage_Aptos_SDK_Client_GetAccountResource_System_String_System_String_
+  commentId: M:Mirage.Aptos.SDK.Client.GetAccountResource(System.String,System.String)
+  fullName: Mirage.Aptos.SDK.Client.GetAccountResource(System.String, System.String)
+  nameWithType: Client.GetAccountResource(String, String)
+- uid: Mirage.Aptos.SDK.Client.GetAccountResource*
+  name: GetAccountResource
+  href: api/Mirage.Aptos.SDK.Client.html#Mirage_Aptos_SDK_Client_GetAccountResource_
+  commentId: Overload:Mirage.Aptos.SDK.Client.GetAccountResource
+  isSpec: "True"
+  fullName: Mirage.Aptos.SDK.Client.GetAccountResource
+  nameWithType: Client.GetAccountResource
+- uid: Mirage.Aptos.SDK.Client.GetEventsByCreationNumber(System.String,System.UInt64,System.Nullable{System.UInt64},System.Nullable{System.UInt64})
+  name: GetEventsByCreationNumber(String, UInt64, Nullable<UInt64>, Nullable<UInt64>)
+  href: api/Mirage.Aptos.SDK.Client.html#Mirage_Aptos_SDK_Client_GetEventsByCreationNumber_System_String_System_UInt64_System_Nullable_System_UInt64__System_Nullable_System_UInt64__
+  commentId: M:Mirage.Aptos.SDK.Client.GetEventsByCreationNumber(System.String,System.UInt64,System.Nullable{System.UInt64},System.Nullable{System.UInt64})
+  name.vb: GetEventsByCreationNumber(String, UInt64, Nullable(Of UInt64), Nullable(Of UInt64))
+  fullName: Mirage.Aptos.SDK.Client.GetEventsByCreationNumber(System.String, System.UInt64, System.Nullable<System.UInt64>, System.Nullable<System.UInt64>)
+  fullName.vb: Mirage.Aptos.SDK.Client.GetEventsByCreationNumber(System.String, System.UInt64, System.Nullable(Of System.UInt64), System.Nullable(Of System.UInt64))
+  nameWithType: Client.GetEventsByCreationNumber(String, UInt64, Nullable<UInt64>, Nullable<UInt64>)
+  nameWithType.vb: Client.GetEventsByCreationNumber(String, UInt64, Nullable(Of UInt64), Nullable(Of UInt64))
+- uid: Mirage.Aptos.SDK.Client.GetEventsByCreationNumber*
+  name: GetEventsByCreationNumber
+  href: api/Mirage.Aptos.SDK.Client.html#Mirage_Aptos_SDK_Client_GetEventsByCreationNumber_
+  commentId: Overload:Mirage.Aptos.SDK.Client.GetEventsByCreationNumber
+  isSpec: "True"
+  fullName: Mirage.Aptos.SDK.Client.GetEventsByCreationNumber
+  nameWithType: Client.GetEventsByCreationNumber
+- uid: Mirage.Aptos.SDK.Client.GetEventsByEventHandle(System.String,System.String,System.String,System.Nullable{System.UInt64},System.Nullable{System.UInt64})
+  name: GetEventsByEventHandle(String, String, String, Nullable<UInt64>, Nullable<UInt64>)
+  href: api/Mirage.Aptos.SDK.Client.html#Mirage_Aptos_SDK_Client_GetEventsByEventHandle_System_String_System_String_System_String_System_Nullable_System_UInt64__System_Nullable_System_UInt64__
+  commentId: M:Mirage.Aptos.SDK.Client.GetEventsByEventHandle(System.String,System.String,System.String,System.Nullable{System.UInt64},System.Nullable{System.UInt64})
+  name.vb: GetEventsByEventHandle(String, String, String, Nullable(Of UInt64), Nullable(Of UInt64))
+  fullName: Mirage.Aptos.SDK.Client.GetEventsByEventHandle(System.String, System.String, System.String, System.Nullable<System.UInt64>, System.Nullable<System.UInt64>)
+  fullName.vb: Mirage.Aptos.SDK.Client.GetEventsByEventHandle(System.String, System.String, System.String, System.Nullable(Of System.UInt64), System.Nullable(Of System.UInt64))
+  nameWithType: Client.GetEventsByEventHandle(String, String, String, Nullable<UInt64>, Nullable<UInt64>)
+  nameWithType.vb: Client.GetEventsByEventHandle(String, String, String, Nullable(Of UInt64), Nullable(Of UInt64))
+- uid: Mirage.Aptos.SDK.Client.GetEventsByEventHandle*
+  name: GetEventsByEventHandle
+  href: api/Mirage.Aptos.SDK.Client.html#Mirage_Aptos_SDK_Client_GetEventsByEventHandle_
+  commentId: Overload:Mirage.Aptos.SDK.Client.GetEventsByEventHandle
+  isSpec: "True"
+  fullName: Mirage.Aptos.SDK.Client.GetEventsByEventHandle
+  nameWithType: Client.GetEventsByEventHandle
+- uid: Mirage.Aptos.SDK.Client.GetTableItem*
+  name: GetTableItem
+  href: api/Mirage.Aptos.SDK.Client.html#Mirage_Aptos_SDK_Client_GetTableItem_
+  commentId: Overload:Mirage.Aptos.SDK.Client.GetTableItem
+  isSpec: "True"
+  fullName: Mirage.Aptos.SDK.Client.GetTableItem
+  nameWithType: Client.GetTableItem
+- uid: Mirage.Aptos.SDK.Client.GetTableItem``1(System.String,TableItemRequest)
+  name: GetTableItem<TReturn>(String, TableItemRequest)
+  href: api/Mirage.Aptos.SDK.Client.html#Mirage_Aptos_SDK_Client_GetTableItem__1_System_String_TableItemRequest_
+  commentId: M:Mirage.Aptos.SDK.Client.GetTableItem``1(System.String,TableItemRequest)
+  name.vb: GetTableItem(Of TReturn)(String, TableItemRequest)
+  fullName: Mirage.Aptos.SDK.Client.GetTableItem<TReturn>(System.String, TableItemRequest)
+  fullName.vb: Mirage.Aptos.SDK.Client.GetTableItem(Of TReturn)(System.String, TableItemRequest)
+  nameWithType: Client.GetTableItem<TReturn>(String, TableItemRequest)
+  nameWithType.vb: Client.GetTableItem(Of TReturn)(String, TableItemRequest)
+- uid: Mirage.Aptos.SDK.Client.GetTransactionByHash(System.String)
+  name: GetTransactionByHash(String)
+  href: api/Mirage.Aptos.SDK.Client.html#Mirage_Aptos_SDK_Client_GetTransactionByHash_System_String_
+  commentId: M:Mirage.Aptos.SDK.Client.GetTransactionByHash(System.String)
+  fullName: Mirage.Aptos.SDK.Client.GetTransactionByHash(System.String)
+  nameWithType: Client.GetTransactionByHash(String)
+- uid: Mirage.Aptos.SDK.Client.GetTransactionByHash*
+  name: GetTransactionByHash
+  href: api/Mirage.Aptos.SDK.Client.html#Mirage_Aptos_SDK_Client_GetTransactionByHash_
+  commentId: Overload:Mirage.Aptos.SDK.Client.GetTransactionByHash
+  isSpec: "True"
+  fullName: Mirage.Aptos.SDK.Client.GetTransactionByHash
+  nameWithType: Client.GetTransactionByHash
+- uid: Mirage.Aptos.SDK.Client.PopulateRequestParams(SubmitTransaction,OptionalTransactionArgs)
+  name: PopulateRequestParams(SubmitTransaction, OptionalTransactionArgs)
+  href: api/Mirage.Aptos.SDK.Client.html#Mirage_Aptos_SDK_Client_PopulateRequestParams_SubmitTransaction_OptionalTransactionArgs_
+  commentId: M:Mirage.Aptos.SDK.Client.PopulateRequestParams(SubmitTransaction,OptionalTransactionArgs)
+  fullName: Mirage.Aptos.SDK.Client.PopulateRequestParams(SubmitTransaction, OptionalTransactionArgs)
+  nameWithType: Client.PopulateRequestParams(SubmitTransaction, OptionalTransactionArgs)
+- uid: Mirage.Aptos.SDK.Client.PopulateRequestParams*
+  name: PopulateRequestParams
+  href: api/Mirage.Aptos.SDK.Client.html#Mirage_Aptos_SDK_Client_PopulateRequestParams_
+  commentId: Overload:Mirage.Aptos.SDK.Client.PopulateRequestParams
+  isSpec: "True"
+  fullName: Mirage.Aptos.SDK.Client.PopulateRequestParams
+  nameWithType: Client.PopulateRequestParams
+- uid: Mirage.Aptos.SDK.Client.SimulateTransaction(SubmitTransactionRequest,System.Nullable{System.Boolean},System.Nullable{System.Boolean},System.Nullable{System.Boolean})
+  name: SimulateTransaction(SubmitTransactionRequest, Nullable<Boolean>, Nullable<Boolean>, Nullable<Boolean>)
+  href: api/Mirage.Aptos.SDK.Client.html#Mirage_Aptos_SDK_Client_SimulateTransaction_SubmitTransactionRequest_System_Nullable_System_Boolean__System_Nullable_System_Boolean__System_Nullable_System_Boolean__
+  commentId: M:Mirage.Aptos.SDK.Client.SimulateTransaction(SubmitTransactionRequest,System.Nullable{System.Boolean},System.Nullable{System.Boolean},System.Nullable{System.Boolean})
+  name.vb: SimulateTransaction(SubmitTransactionRequest, Nullable(Of Boolean), Nullable(Of Boolean), Nullable(Of Boolean))
+  fullName: Mirage.Aptos.SDK.Client.SimulateTransaction(SubmitTransactionRequest, System.Nullable<System.Boolean>, System.Nullable<System.Boolean>, System.Nullable<System.Boolean>)
+  fullName.vb: Mirage.Aptos.SDK.Client.SimulateTransaction(SubmitTransactionRequest, System.Nullable(Of System.Boolean), System.Nullable(Of System.Boolean), System.Nullable(Of System.Boolean))
+  nameWithType: Client.SimulateTransaction(SubmitTransactionRequest, Nullable<Boolean>, Nullable<Boolean>, Nullable<Boolean>)
+  nameWithType.vb: Client.SimulateTransaction(SubmitTransactionRequest, Nullable(Of Boolean), Nullable(Of Boolean), Nullable(Of Boolean))
+- uid: Mirage.Aptos.SDK.Client.SimulateTransaction*
+  name: SimulateTransaction
+  href: api/Mirage.Aptos.SDK.Client.html#Mirage_Aptos_SDK_Client_SimulateTransaction_
+  commentId: Overload:Mirage.Aptos.SDK.Client.SimulateTransaction
+  isSpec: "True"
+  fullName: Mirage.Aptos.SDK.Client.SimulateTransaction
+  nameWithType: Client.SimulateTransaction
+- uid: Mirage.Aptos.SDK.Client.SubmitTransaction(SubmitTransactionRequest)
+  name: SubmitTransaction(SubmitTransactionRequest)
+  href: api/Mirage.Aptos.SDK.Client.html#Mirage_Aptos_SDK_Client_SubmitTransaction_SubmitTransactionRequest_
+  commentId: M:Mirage.Aptos.SDK.Client.SubmitTransaction(SubmitTransactionRequest)
+  fullName: Mirage.Aptos.SDK.Client.SubmitTransaction(SubmitTransactionRequest)
+  nameWithType: Client.SubmitTransaction(SubmitTransactionRequest)
+- uid: Mirage.Aptos.SDK.Client.SubmitTransaction*
+  name: SubmitTransaction
+  href: api/Mirage.Aptos.SDK.Client.html#Mirage_Aptos_SDK_Client_SubmitTransaction_
+  commentId: Overload:Mirage.Aptos.SDK.Client.SubmitTransaction
+  isSpec: "True"
+  fullName: Mirage.Aptos.SDK.Client.SubmitTransaction
+  nameWithType: Client.SubmitTransaction
+- uid: Mirage.Aptos.SDK.CoinClient
+  name: CoinClient
+  href: api/Mirage.Aptos.SDK.CoinClient.html
+  commentId: T:Mirage.Aptos.SDK.CoinClient
+  fullName: Mirage.Aptos.SDK.CoinClient
+  nameWithType: CoinClient
+- uid: Mirage.Aptos.SDK.CoinClient.#ctor(Mirage.Aptos.SDK.Client)
+  name: CoinClient(Client)
+  href: api/Mirage.Aptos.SDK.CoinClient.html#Mirage_Aptos_SDK_CoinClient__ctor_Mirage_Aptos_SDK_Client_
+  commentId: M:Mirage.Aptos.SDK.CoinClient.#ctor(Mirage.Aptos.SDK.Client)
+  fullName: Mirage.Aptos.SDK.CoinClient.CoinClient(Mirage.Aptos.SDK.Client)
+  nameWithType: CoinClient.CoinClient(Client)
+- uid: Mirage.Aptos.SDK.CoinClient.#ctor*
+  name: CoinClient
+  href: api/Mirage.Aptos.SDK.CoinClient.html#Mirage_Aptos_SDK_CoinClient__ctor_
+  commentId: Overload:Mirage.Aptos.SDK.CoinClient.#ctor
+  isSpec: "True"
+  fullName: Mirage.Aptos.SDK.CoinClient.CoinClient
+  nameWithType: CoinClient.CoinClient
+- uid: Mirage.Aptos.SDK.CoinClient.GetBalance(Mirage.Aptos.SDK.Account)
+  name: GetBalance(Account)
+  href: api/Mirage.Aptos.SDK.CoinClient.html#Mirage_Aptos_SDK_CoinClient_GetBalance_Mirage_Aptos_SDK_Account_
+  commentId: M:Mirage.Aptos.SDK.CoinClient.GetBalance(Mirage.Aptos.SDK.Account)
+  fullName: Mirage.Aptos.SDK.CoinClient.GetBalance(Mirage.Aptos.SDK.Account)
+  nameWithType: CoinClient.GetBalance(Account)
+- uid: Mirage.Aptos.SDK.CoinClient.GetBalance*
+  name: GetBalance
+  href: api/Mirage.Aptos.SDK.CoinClient.html#Mirage_Aptos_SDK_CoinClient_GetBalance_
+  commentId: Overload:Mirage.Aptos.SDK.CoinClient.GetBalance
+  isSpec: "True"
+  fullName: Mirage.Aptos.SDK.CoinClient.GetBalance
+  nameWithType: CoinClient.GetBalance
+- uid: Mirage.Aptos.SDK.CoinClient.SimulateTransfer(Mirage.Aptos.SDK.Account,Mirage.Aptos.SDK.Account,System.UInt64)
+  name: SimulateTransfer(Account, Account, UInt64)
+  href: api/Mirage.Aptos.SDK.CoinClient.html#Mirage_Aptos_SDK_CoinClient_SimulateTransfer_Mirage_Aptos_SDK_Account_Mirage_Aptos_SDK_Account_System_UInt64_
+  commentId: M:Mirage.Aptos.SDK.CoinClient.SimulateTransfer(Mirage.Aptos.SDK.Account,Mirage.Aptos.SDK.Account,System.UInt64)
+  fullName: Mirage.Aptos.SDK.CoinClient.SimulateTransfer(Mirage.Aptos.SDK.Account, Mirage.Aptos.SDK.Account, System.UInt64)
+  nameWithType: CoinClient.SimulateTransfer(Account, Account, UInt64)
+- uid: Mirage.Aptos.SDK.CoinClient.SimulateTransfer*
+  name: SimulateTransfer
+  href: api/Mirage.Aptos.SDK.CoinClient.html#Mirage_Aptos_SDK_CoinClient_SimulateTransfer_
+  commentId: Overload:Mirage.Aptos.SDK.CoinClient.SimulateTransfer
+  isSpec: "True"
+  fullName: Mirage.Aptos.SDK.CoinClient.SimulateTransfer
+  nameWithType: CoinClient.SimulateTransfer
+- uid: Mirage.Aptos.SDK.CoinClient.Transfer(Mirage.Aptos.SDK.Account,Mirage.Aptos.SDK.Account,System.UInt64)
+  name: Transfer(Account, Account, UInt64)
+  href: api/Mirage.Aptos.SDK.CoinClient.html#Mirage_Aptos_SDK_CoinClient_Transfer_Mirage_Aptos_SDK_Account_Mirage_Aptos_SDK_Account_System_UInt64_
+  commentId: M:Mirage.Aptos.SDK.CoinClient.Transfer(Mirage.Aptos.SDK.Account,Mirage.Aptos.SDK.Account,System.UInt64)
+  fullName: Mirage.Aptos.SDK.CoinClient.Transfer(Mirage.Aptos.SDK.Account, Mirage.Aptos.SDK.Account, System.UInt64)
+  nameWithType: CoinClient.Transfer(Account, Account, UInt64)
+- uid: Mirage.Aptos.SDK.CoinClient.Transfer*
+  name: Transfer
+  href: api/Mirage.Aptos.SDK.CoinClient.html#Mirage_Aptos_SDK_CoinClient_Transfer_
+  commentId: Overload:Mirage.Aptos.SDK.CoinClient.Transfer
+  isSpec: "True"
+  fullName: Mirage.Aptos.SDK.CoinClient.Transfer
+  nameWithType: CoinClient.Transfer
+- uid: Mirage.Aptos.SDK.FaucetClient
+  name: FaucetClient
+  href: api/Mirage.Aptos.SDK.FaucetClient.html
+  commentId: T:Mirage.Aptos.SDK.FaucetClient
+  fullName: Mirage.Aptos.SDK.FaucetClient
+  nameWithType: FaucetClient
+- uid: Mirage.Aptos.SDK.FaucetClient.#ctor(System.String,Mirage.Aptos.SDK.Client)
+  name: FaucetClient(String, Client)
+  href: api/Mirage.Aptos.SDK.FaucetClient.html#Mirage_Aptos_SDK_FaucetClient__ctor_System_String_Mirage_Aptos_SDK_Client_
+  commentId: M:Mirage.Aptos.SDK.FaucetClient.#ctor(System.String,Mirage.Aptos.SDK.Client)
+  fullName: Mirage.Aptos.SDK.FaucetClient.FaucetClient(System.String, Mirage.Aptos.SDK.Client)
+  nameWithType: FaucetClient.FaucetClient(String, Client)
+- uid: Mirage.Aptos.SDK.FaucetClient.#ctor*
+  name: FaucetClient
+  href: api/Mirage.Aptos.SDK.FaucetClient.html#Mirage_Aptos_SDK_FaucetClient__ctor_
+  commentId: Overload:Mirage.Aptos.SDK.FaucetClient.#ctor
+  isSpec: "True"
+  fullName: Mirage.Aptos.SDK.FaucetClient.FaucetClient
+  nameWithType: FaucetClient.FaucetClient
+- uid: Mirage.Aptos.SDK.FaucetClient.FundAccount(Mirage.Aptos.SDK.Account,System.UInt32)
+  name: FundAccount(Account, UInt32)
+  href: api/Mirage.Aptos.SDK.FaucetClient.html#Mirage_Aptos_SDK_FaucetClient_FundAccount_Mirage_Aptos_SDK_Account_System_UInt32_
+  commentId: M:Mirage.Aptos.SDK.FaucetClient.FundAccount(Mirage.Aptos.SDK.Account,System.UInt32)
+  fullName: Mirage.Aptos.SDK.FaucetClient.FundAccount(Mirage.Aptos.SDK.Account, System.UInt32)
+  nameWithType: FaucetClient.FundAccount(Account, UInt32)
+- uid: Mirage.Aptos.SDK.FaucetClient.FundAccount*
+  name: FundAccount
+  href: api/Mirage.Aptos.SDK.FaucetClient.html#Mirage_Aptos_SDK_FaucetClient_FundAccount_
+  commentId: Overload:Mirage.Aptos.SDK.FaucetClient.FundAccount
+  isSpec: "True"
+  fullName: Mirage.Aptos.SDK.FaucetClient.FundAccount
+  nameWithType: FaucetClient.FundAccount
+- uid: Mirage.Aptos.SDK.TokenClient
+  name: TokenClient
+  href: api/Mirage.Aptos.SDK.TokenClient.html
+  commentId: T:Mirage.Aptos.SDK.TokenClient
+  fullName: Mirage.Aptos.SDK.TokenClient
+  nameWithType: TokenClient
+- uid: Mirage.Aptos.SDK.TokenClient.#ctor(Mirage.Aptos.SDK.Client)
+  name: TokenClient(Client)
+  href: api/Mirage.Aptos.SDK.TokenClient.html#Mirage_Aptos_SDK_TokenClient__ctor_Mirage_Aptos_SDK_Client_
+  commentId: M:Mirage.Aptos.SDK.TokenClient.#ctor(Mirage.Aptos.SDK.Client)
+  fullName: Mirage.Aptos.SDK.TokenClient.TokenClient(Mirage.Aptos.SDK.Client)
+  nameWithType: TokenClient.TokenClient(Client)
+- uid: Mirage.Aptos.SDK.TokenClient.#ctor*
+  name: TokenClient
+  href: api/Mirage.Aptos.SDK.TokenClient.html#Mirage_Aptos_SDK_TokenClient__ctor_
+  commentId: Overload:Mirage.Aptos.SDK.TokenClient.#ctor
+  isSpec: "True"
+  fullName: Mirage.Aptos.SDK.TokenClient.TokenClient
+  nameWithType: TokenClient.TokenClient
+- uid: Mirage.Aptos.SDK.TokenClient.ClaimToken(Mirage.Aptos.SDK.Account,System.String,System.String,System.String,System.String,System.Int64,OptionalTransactionArgs)
+  name: ClaimToken(Account, String, String, String, String, Int64, OptionalTransactionArgs)
+  href: api/Mirage.Aptos.SDK.TokenClient.html#Mirage_Aptos_SDK_TokenClient_ClaimToken_Mirage_Aptos_SDK_Account_System_String_System_String_System_String_System_String_System_Int64_OptionalTransactionArgs_
+  commentId: M:Mirage.Aptos.SDK.TokenClient.ClaimToken(Mirage.Aptos.SDK.Account,System.String,System.String,System.String,System.String,System.Int64,OptionalTransactionArgs)
+  fullName: Mirage.Aptos.SDK.TokenClient.ClaimToken(Mirage.Aptos.SDK.Account, System.String, System.String, System.String, System.String, System.Int64, OptionalTransactionArgs)
+  nameWithType: TokenClient.ClaimToken(Account, String, String, String, String, Int64, OptionalTransactionArgs)
+- uid: Mirage.Aptos.SDK.TokenClient.ClaimToken*
+  name: ClaimToken
+  href: api/Mirage.Aptos.SDK.TokenClient.html#Mirage_Aptos_SDK_TokenClient_ClaimToken_
+  commentId: Overload:Mirage.Aptos.SDK.TokenClient.ClaimToken
+  isSpec: "True"
+  fullName: Mirage.Aptos.SDK.TokenClient.ClaimToken
+  nameWithType: TokenClient.ClaimToken
+- uid: Mirage.Aptos.SDK.TokenClient.CreateCollection(Mirage.Aptos.SDK.Account,System.String,System.String,System.String,System.Int64,OptionalTransactionArgs)
+  name: CreateCollection(Account, String, String, String, Int64, OptionalTransactionArgs)
+  href: api/Mirage.Aptos.SDK.TokenClient.html#Mirage_Aptos_SDK_TokenClient_CreateCollection_Mirage_Aptos_SDK_Account_System_String_System_String_System_String_System_Int64_OptionalTransactionArgs_
+  commentId: M:Mirage.Aptos.SDK.TokenClient.CreateCollection(Mirage.Aptos.SDK.Account,System.String,System.String,System.String,System.Int64,OptionalTransactionArgs)
+  fullName: Mirage.Aptos.SDK.TokenClient.CreateCollection(Mirage.Aptos.SDK.Account, System.String, System.String, System.String, System.Int64, OptionalTransactionArgs)
+  nameWithType: TokenClient.CreateCollection(Account, String, String, String, Int64, OptionalTransactionArgs)
+- uid: Mirage.Aptos.SDK.TokenClient.CreateCollection*
+  name: CreateCollection
+  href: api/Mirage.Aptos.SDK.TokenClient.html#Mirage_Aptos_SDK_TokenClient_CreateCollection_
+  commentId: Overload:Mirage.Aptos.SDK.TokenClient.CreateCollection
+  isSpec: "True"
+  fullName: Mirage.Aptos.SDK.TokenClient.CreateCollection
+  nameWithType: TokenClient.CreateCollection
+- uid: Mirage.Aptos.SDK.TokenClient.CreateToken(Mirage.Aptos.SDK.Account,System.String,System.String,System.String,System.UInt64,System.String,System.UInt64,System.String,System.Int32,System.Int32,System.String[],System.String[],System.String[],OptionalTransactionArgs)
+  name: CreateToken(Account, String, String, String, UInt64, String, UInt64, String, Int32, Int32, String[], String[], String[], OptionalTransactionArgs)
+  href: api/Mirage.Aptos.SDK.TokenClient.html#Mirage_Aptos_SDK_TokenClient_CreateToken_Mirage_Aptos_SDK_Account_System_String_System_String_System_String_System_UInt64_System_String_System_UInt64_System_String_System_Int32_System_Int32_System_String___System_String___System_String___OptionalTransactionArgs_
+  commentId: M:Mirage.Aptos.SDK.TokenClient.CreateToken(Mirage.Aptos.SDK.Account,System.String,System.String,System.String,System.UInt64,System.String,System.UInt64,System.String,System.Int32,System.Int32,System.String[],System.String[],System.String[],OptionalTransactionArgs)
+  name.vb: CreateToken(Account, String, String, String, UInt64, String, UInt64, String, Int32, Int32, String(), String(), String(), OptionalTransactionArgs)
+  fullName: Mirage.Aptos.SDK.TokenClient.CreateToken(Mirage.Aptos.SDK.Account, System.String, System.String, System.String, System.UInt64, System.String, System.UInt64, System.String, System.Int32, System.Int32, System.String[], System.String[], System.String[], OptionalTransactionArgs)
+  fullName.vb: Mirage.Aptos.SDK.TokenClient.CreateToken(Mirage.Aptos.SDK.Account, System.String, System.String, System.String, System.UInt64, System.String, System.UInt64, System.String, System.Int32, System.Int32, System.String(), System.String(), System.String(), OptionalTransactionArgs)
+  nameWithType: TokenClient.CreateToken(Account, String, String, String, UInt64, String, UInt64, String, Int32, Int32, String[], String[], String[], OptionalTransactionArgs)
+  nameWithType.vb: TokenClient.CreateToken(Account, String, String, String, UInt64, String, UInt64, String, Int32, Int32, String(), String(), String(), OptionalTransactionArgs)
+- uid: Mirage.Aptos.SDK.TokenClient.CreateToken*
+  name: CreateToken
+  href: api/Mirage.Aptos.SDK.TokenClient.html#Mirage_Aptos_SDK_TokenClient_CreateToken_
+  commentId: Overload:Mirage.Aptos.SDK.TokenClient.CreateToken
+  isSpec: "True"
+  fullName: Mirage.Aptos.SDK.TokenClient.CreateToken
+  nameWithType: TokenClient.CreateToken
+- uid: Mirage.Aptos.SDK.TokenClient.GetCollectionData(System.String,System.String)
+  name: GetCollectionData(String, String)
+  href: api/Mirage.Aptos.SDK.TokenClient.html#Mirage_Aptos_SDK_TokenClient_GetCollectionData_System_String_System_String_
+  commentId: M:Mirage.Aptos.SDK.TokenClient.GetCollectionData(System.String,System.String)
+  fullName: Mirage.Aptos.SDK.TokenClient.GetCollectionData(System.String, System.String)
+  nameWithType: TokenClient.GetCollectionData(String, String)
+- uid: Mirage.Aptos.SDK.TokenClient.GetCollectionData*
+  name: GetCollectionData
+  href: api/Mirage.Aptos.SDK.TokenClient.html#Mirage_Aptos_SDK_TokenClient_GetCollectionData_
+  commentId: Overload:Mirage.Aptos.SDK.TokenClient.GetCollectionData
+  isSpec: "True"
+  fullName: Mirage.Aptos.SDK.TokenClient.GetCollectionData
+  nameWithType: TokenClient.GetCollectionData
+- uid: Mirage.Aptos.SDK.TokenClient.GetToken(System.String,System.String,System.String,System.Int64)
+  name: GetToken(String, String, String, Int64)
+  href: api/Mirage.Aptos.SDK.TokenClient.html#Mirage_Aptos_SDK_TokenClient_GetToken_System_String_System_String_System_String_System_Int64_
+  commentId: M:Mirage.Aptos.SDK.TokenClient.GetToken(System.String,System.String,System.String,System.Int64)
+  fullName: Mirage.Aptos.SDK.TokenClient.GetToken(System.String, System.String, System.String, System.Int64)
+  nameWithType: TokenClient.GetToken(String, String, String, Int64)
+- uid: Mirage.Aptos.SDK.TokenClient.GetToken*
+  name: GetToken
+  href: api/Mirage.Aptos.SDK.TokenClient.html#Mirage_Aptos_SDK_TokenClient_GetToken_
+  commentId: Overload:Mirage.Aptos.SDK.TokenClient.GetToken
+  isSpec: "True"
+  fullName: Mirage.Aptos.SDK.TokenClient.GetToken
+  nameWithType: TokenClient.GetToken
+- uid: Mirage.Aptos.SDK.TokenClient.GetTokenData(System.String,System.String,System.String)
+  name: GetTokenData(String, String, String)
+  href: api/Mirage.Aptos.SDK.TokenClient.html#Mirage_Aptos_SDK_TokenClient_GetTokenData_System_String_System_String_System_String_
+  commentId: M:Mirage.Aptos.SDK.TokenClient.GetTokenData(System.String,System.String,System.String)
+  fullName: Mirage.Aptos.SDK.TokenClient.GetTokenData(System.String, System.String, System.String)
+  nameWithType: TokenClient.GetTokenData(String, String, String)
+- uid: Mirage.Aptos.SDK.TokenClient.GetTokenData*
+  name: GetTokenData
+  href: api/Mirage.Aptos.SDK.TokenClient.html#Mirage_Aptos_SDK_TokenClient_GetTokenData_
+  commentId: Overload:Mirage.Aptos.SDK.TokenClient.GetTokenData
+  isSpec: "True"
+  fullName: Mirage.Aptos.SDK.TokenClient.GetTokenData
+  nameWithType: TokenClient.GetTokenData
+- uid: Mirage.Aptos.SDK.TokenClient.GetTokenForAccount(System.String,TokenId)
+  name: GetTokenForAccount(String, TokenId)
+  href: api/Mirage.Aptos.SDK.TokenClient.html#Mirage_Aptos_SDK_TokenClient_GetTokenForAccount_System_String_TokenId_
+  commentId: M:Mirage.Aptos.SDK.TokenClient.GetTokenForAccount(System.String,TokenId)
+  fullName: Mirage.Aptos.SDK.TokenClient.GetTokenForAccount(System.String, TokenId)
+  nameWithType: TokenClient.GetTokenForAccount(String, TokenId)
+- uid: Mirage.Aptos.SDK.TokenClient.GetTokenForAccount*
+  name: GetTokenForAccount
+  href: api/Mirage.Aptos.SDK.TokenClient.html#Mirage_Aptos_SDK_TokenClient_GetTokenForAccount_
+  commentId: Overload:Mirage.Aptos.SDK.TokenClient.GetTokenForAccount
+  isSpec: "True"
+  fullName: Mirage.Aptos.SDK.TokenClient.GetTokenForAccount
+  nameWithType: TokenClient.GetTokenForAccount
+- uid: Mirage.Aptos.SDK.TokenClient.OfferToken(Mirage.Aptos.SDK.Account,System.String,System.String,System.String,System.String,System.Int64,System.Int64,OptionalTransactionArgs)
+  name: OfferToken(Account, String, String, String, String, Int64, Int64, OptionalTransactionArgs)
+  href: api/Mirage.Aptos.SDK.TokenClient.html#Mirage_Aptos_SDK_TokenClient_OfferToken_Mirage_Aptos_SDK_Account_System_String_System_String_System_String_System_String_System_Int64_System_Int64_OptionalTransactionArgs_
+  commentId: M:Mirage.Aptos.SDK.TokenClient.OfferToken(Mirage.Aptos.SDK.Account,System.String,System.String,System.String,System.String,System.Int64,System.Int64,OptionalTransactionArgs)
+  fullName: Mirage.Aptos.SDK.TokenClient.OfferToken(Mirage.Aptos.SDK.Account, System.String, System.String, System.String, System.String, System.Int64, System.Int64, OptionalTransactionArgs)
+  nameWithType: TokenClient.OfferToken(Account, String, String, String, String, Int64, Int64, OptionalTransactionArgs)
+- uid: Mirage.Aptos.SDK.TokenClient.OfferToken*
+  name: OfferToken
+  href: api/Mirage.Aptos.SDK.TokenClient.html#Mirage_Aptos_SDK_TokenClient_OfferToken_
+  commentId: Overload:Mirage.Aptos.SDK.TokenClient.OfferToken
+  isSpec: "True"
+  fullName: Mirage.Aptos.SDK.TokenClient.OfferToken
+  nameWithType: TokenClient.OfferToken
