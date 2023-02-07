@@ -427,3 +427,19 @@ references:
   isSpec: "True"
   fullName: Mirage.Aptos.SDK.TokenClient.OfferToken
   nameWithType: TokenClient.OfferToken
+- uid: Mirage.Aptos.SDK.TokenClient.SimulateTransaction(Mirage.Aptos.SDK.Account,EntryFunctionPayload,OptionalTransactionArgs,System.Nullable{System.Boolean},System.Nullable{System.Boolean},System.Nullable{System.Boolean})
+  name: SimulateTransaction(Account, EntryFunctionPayload, OptionalTransactionArgs, Nullable<Boolean>, Nullable<Boolean>, Nullable<Boolean>)
+  href: api/Mirage.Aptos.SDK.TokenClient.html#Mirage_Aptos_SDK_TokenClient_SimulateTransaction_Mirage_Aptos_SDK_Account_EntryFunctionPayload_OptionalTransactionArgs_System_Nullable_System_Boolean__System_Nullable_System_Boolean__System_Nullable_System_Boolean__
+  commentId: M:Mirage.Aptos.SDK.TokenClient.SimulateTransaction(Mirage.Aptos.SDK.Account,EntryFunctionPayload,OptionalTransactionArgs,System.Nullable{System.Boolean},System.Nullable{System.Boolean},System.Nullable{System.Boolean})
+  name.vb: SimulateTransaction(Account, EntryFunctionPayload, OptionalTransactionArgs, Nullable(Of Boolean), Nullable(Of Boolean), Nullable(Of Boolean))
+  fullName: Mirage.Aptos.SDK.TokenClient.SimulateTransaction(Mirage.Aptos.SDK.Account, EntryFunctionPayload, OptionalTransactionArgs, System.Nullable<System.Boolean>, System.Nullable<System.Boolean>, System.Nullable<System.Boolean>)
+  fullName.vb: Mirage.Aptos.SDK.TokenClient.SimulateTransaction(Mirage.Aptos.SDK.Account, EntryFunctionPayload, OptionalTransactionArgs, System.Nullable(Of System.Boolean), System.Nullable(Of System.Boolean), System.Nullable(Of System.Boolean))
+  nameWithType: TokenClient.SimulateTransaction(Account, EntryFunctionPayload, OptionalTransactionArgs, Nullable<Boolean>, Nullable<Boolean>, Nullable<Boolean>)
+  nameWithType.vb: TokenClient.SimulateTransaction(Account, EntryFunctionPayload, OptionalTransactionArgs, Nullable(Of Boolean), Nullable(Of Boolean), Nullable(Of Boolean))
+- uid: Mirage.Aptos.SDK.TokenClient.SimulateTransaction*
+  name: SimulateTransaction
+  href: api/Mirage.Aptos.SDK.TokenClient.html#Mirage_Aptos_SDK_TokenClient_SimulateTransaction_
+  commentId: Overload:Mirage.Aptos.SDK.TokenClient.SimulateTransaction
+  isSpec: "True"
+  fullName: Mirage.Aptos.SDK.TokenClient.SimulateTransaction
+  nameWithType: TokenClient.SimulateTransaction

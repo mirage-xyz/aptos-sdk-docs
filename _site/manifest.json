@@ -1,6 +1,6 @@
 {
   "homepages": [],
-  "source_base_path": "D:/Users/kiril/RiderProjects/aptos-sdk/docfx_project",
+  "source_base_path": "D:/Users/kiril/RiderProjects/aptos-sdk/AptosDocs",
   "xrefmap": "xrefmap.yml",
   "files": [
     {
@@ -9,10 +9,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Mirage.Aptos.SDK.Account.html",
-          "hash": "MPNwzSon5QaT2EzVImEKEVRDSuEMrgNZqEXFCNYXts8="
+          "hash": "AHhDue09TFoTnJ6Blt5b7Ll1cAVx47h36RP617Bg164="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -21,10 +21,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Mirage.Aptos.SDK.Client.html",
-          "hash": "86YhZKe1GKC461moS0xH1mxSkcbYypjNeZZPcp6C6Ag="
+          "hash": "ZLpZgvGX60yAx0V35Bfstcnoqcj0YDPLQUOnKZ7gtPM="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -33,10 +33,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Mirage.Aptos.SDK.CoinClient.html",
-          "hash": "Q5euzne/mZYnnvTRI7VD1IN0sDNr3of1CytRJdHQiQA="
+          "hash": "Fz9BQVdE/xEst9TkIJ15B5I+xtYR2iGM0NwZ39BwflY="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -45,10 +45,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Mirage.Aptos.SDK.FaucetClient.html",
-          "hash": "sQoToX6HB/sYMvU3sSk3NpW6sE/+1RrHnWbYv3a6Txo="
+          "hash": "iVTH5nQuBJ4eFt1hhkKLRjoED9Qyn8RZFYd8drVz6WM="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -57,10 +57,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Mirage.Aptos.SDK.TokenClient.html",
-          "hash": "iiRvrA8jQedACMG+k/HfmZ2GsHjHiNlg2GojSaYLNkc="
+          "hash": "wrQrDANVafUaes8B3UXfMqftTB14vLOLorCpevH5cJI="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -69,10 +69,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Mirage.Aptos.SDK.html",
-          "hash": "AdUO4LtXdDKOx3QyvEUkZxlsyz/yeD+FP0yUDc0iUNs="
+          "hash": "8EB9rgUlYKGsqStJ3UHiK8BjncaditPpOQFiE69Hcj0="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -81,7 +81,7 @@
       "output": {
         ".html": {
           "relative_path": "api/index.html",
-          "hash": "WU5bpByCuxsu6hd1waBqZKxPIPdceRTqje29TBVOIeE="
+          "hash": "KseOeVv32/FCIyJHnoG02Q6exobU964Edi4KgIeSNxM="
         }
       },
       "is_incremental": false,
@@ -108,7 +108,7 @@
           "hash": "ape6LkKdzeLbiKTmobsMkdiSP7fMSl5KcyAgTe4Cf8M="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -124,15 +124,18 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "index.md",
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "Jlv5LUOyaE1BuMfsnU+e5uIf0gdSfa4cyxV3A9M2z+s="
+          "hash": "CgZfgQCkroW0PQ67YaWOOetQ57K1QnOlzhjFBHoMH4o="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -161,7 +164,7 @@
           "can_incremental": true,
           "incrementalPhase": "build",
           "total_file_count": 3,
-          "skipped_file_count": 3
+          "skipped_file_count": 2
         },
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": true,

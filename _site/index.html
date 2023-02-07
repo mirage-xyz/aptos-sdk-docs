@@ -6,9 +6,9 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>This is the HOMEPAGE. </title>
+    <title>Mirage Aptos SDK </title>
     <meta name="viewport" content="width=device-width">
-    <meta name="title" content="This is the HOMEPAGE. ">
+    <meta name="title" content="Mirage Aptos SDK ">
     <meta name="generator" content="docfx 2.59.4.0">
     
     <link rel="shortcut icon" href="favicon.ico">
@@ -87,13 +87,71 @@
                         </div>
 
                     <article class="content wrap" id="_content" data-uid="">
-<h1 id="this-is-the-homepage">This is the <strong>HOMEPAGE</strong>.</h1>
+<h1 id="mirage-aptos-sdk">Mirage Aptos SDK</h1>
 
-<p>Refer to <a href="http://daringfireball.net/projects/markdown/">Markdown</a> for how to write markdown files.</p>
-<h2 id="quick-start-notes">Quick Start Notes:</h2>
-<ol>
-<li>Add images to the <em>images</em> folder if the file is referencing an image.</li>
-</ol>
+<p>SKD for integration Aptos features to .NET and Unity platforms</p>
+<p>Aptos is a layer 1 blockchain bringing a paradigm shift to Web3 through better technology and user experience. Built with Move to create a home for developers building next-gen applications.</p>
+<h2 id="installation">Installation</h2>
+<p>Build package</p>
+<h3 id="net">.NET</h3>
+<p><strong>NuGet</strong> (<em>coming soon</em>)</p>
+<pre><code class="lang-bash">dotnet add package AptosSDK --version 0.1.0
+</code></pre>
+<p><strong>Paket</strong></p>
+<p>You can reference the library in the <code>paket.dependencies</code> file:</p>
+<pre><code class="lang-bash">paket git git@github.com:mirage-xyz/aptos-sdk.git
+</code></pre>
+<p>To read more about Paket options read the <a href="https://fsprojects.github.io/Paket/git-dependencies.html">link below</a>.</p>
+<p>You can build package</p>
+<pre><code class="lang-bash">dotnet build
+</code></pre>
+<p>or download it from <a href="https://github.com/mirage-xyz/aptos-sdk/releases">releases</a>;</p>
+<h2 id="references">References</h2>
+<p>To get references documentation please follow the <a href="https://aptos-docs.mirage.xyz/api/Mirage.Aptos.SDK.html">link</a>.</p>
+<h2 id="examples">Examples</h2>
+<h3 id="transfer-coins">Transfer coins</h3>
+<pre><code class="lang-csharp">string NodeUrl = &quot;https://fullnode.devnet.aptoslabs.com&quot;;
+string FaucetUrl = &quot;https://faucet.devnet.aptoslabs.com&quot;;
+
+Client client = new Client(NodeUrl);
+FaucetClient faucetClient = new FaucetClient(FaucetUrl, _client);
+TokenClient tokenClient = new TokenClient(_client);
+
+var from = new Account();
+var to = new Account();
+
+await _faucetClient.FundAccount(from, TopUpAmount);
+
+var pendingTransaction = await _coinClient.Transfer(from, to, 1000);
+
+var awaiter = new TransactionAwaiter(_client);
+var transaction = await awaiter.WaitForTransactionWithResult(pendingTransaction.Hash);
+</code></pre>
+<h3 id="create-and-transfer-token">Create and transfer token</h3>
+<h4 id="create-collection">Create collection</h4>
+<pre><code class="lang-csharp">var description = &quot;Collection for test&quot;;
+var uri = &quot;https://mirage.xyz/&quot;;
+var collectionName = &quot;Mirage Aptos SDK&quot;;
+
+var transaction = await tokenClient.CreateCollection(from, collectionName, description, uri);
+
+var collectionData = await _tokenClient.GetCollectionData(_from.Address, _collectionName);
+</code></pre>
+<h4 id="create-token">Create token</h4>
+<pre><code class="lang-csharp">var tokenName = &quot;Mirages's first token&quot;;
+var tokenDescription = &quot;Mirages's simple token&quot;;
+var transaction = await tokenClient.CreateToken(
+	from,
+	collectionName,
+	tokenName,
+	tokenDescription,
+	1,
+	&quot;https://mirage.xyz/_next/static/videos/video-desktop-8511e2ee740953e08e74b95f401399f7.webm&quot;
+);
+
+var tokenData = await tokenClient.GetTokenData(_from.Address, _collectionName, _tokenName);
+</code></pre>
+<p>To get more examples check <a href="AptosSDKTest">examples project</a>.</p>
 </article>
               
                 </div>
